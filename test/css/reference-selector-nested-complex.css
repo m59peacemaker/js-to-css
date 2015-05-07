@@ -1,0 +1,23 @@
+#foo {
+  color: #333;
+}
+
+#foo a {
+  color: #555;
+}
+
+#foo a:hover {
+  color: #777;
+}
+
+#foo a:hover span {
+  color: #999;
+}
+
+#foo a span {
+  color: #CCC;
+}
+
+#foo a span:hover {
+  color: red;
+}

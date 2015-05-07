@@ -1,0 +1,15 @@
+#foo {
+  color: #333;
+}
+
+#foo a {
+  color: #555;
+}
+
+#foo a:hover {
+  color: #777;
+}
+
+#foo a span {
+  color: #999;
+}

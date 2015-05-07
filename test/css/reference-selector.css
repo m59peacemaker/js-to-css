@@ -1,0 +1,7 @@
+#foo {
+  color: #333;
+}
+
+#foo:hover {
+  color: #777;
+}

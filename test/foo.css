@@ -1,0 +1,14 @@
+p {
+  color: #000;
+  background: white;
+}
+
+p a {
+  color: #990000;
+  background: black;
+}
+
+p a span {
+  color: #AAA;
+}
+

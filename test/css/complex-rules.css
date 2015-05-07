@@ -1,0 +1,7 @@
+#foo div .nest-fest {
+  color: #777;
+}
+
+.foo.bar:hover {
+  color: #FFF;
+}
